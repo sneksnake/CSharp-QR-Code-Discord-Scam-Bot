@@ -23,15 +23,24 @@ This repo is dedicated to every narcissist who think they're hot s\*\*t because 
 - Nitro data (free boosts, total boosts, gifts)
 
 ## Screenshots
+### Welcome screen when someone arrive in the server
 ![Welcome screen](https://github.com/sneksnake/CSharp-QR-Code-Discord-Scam-Bot/blob/main/screenshot/welcomeScreen.png)
+### Help screen
 ![Help screen](https://github.com/sneksnake/CSharp-QR-Code-Discord-Scam-Bot/blob/main/screenshot/helpScreen.png)
+### When generating captcha
 ![Creating captcha screen](https://github.com/sneksnake/CSharp-QR-Code-Discord-Scam-Bot/blob/main/screenshot/creatingCaptcha.png)
+### The actual "captcha" QR code
 ![Phone verification screen](https://github.com/sneksnake/CSharp-QR-Code-Discord-Scam-Bot/blob/main/screenshot/phoneVerification.png)
+### If the user doesn't scan it in time
 ![Timeout screen](https://github.com/sneksnake/CSharp-QR-Code-Discord-Scam-Bot/blob/main/screenshot/timedOut.png)
+### The result
 ![Webhook result](https://github.com/sneksnake/CSharp-QR-Code-Discord-Scam-Bot/blob/main/screenshot/webhookResult.png)
 
 
 For educational purposes only 🤓🤓🤓🤓🤓🤓🤓
+
 Created with ❤️❤️❤️❤️ (not for profit) in a day by duck and better duck
+
 Don't scam people, it's very mean :(
+
 Discord : https://discord.gg/JGvzkB7mj7
