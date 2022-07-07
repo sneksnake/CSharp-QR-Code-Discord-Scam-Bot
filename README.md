@@ -1,5 +1,5 @@
 # CSharp-QR-Code-Discord-Scam-Bot
-This is a discord bot impersonating captcha bot, in order to trick user into scanning QR code and taking over their accounts.
+This is a discord bot impersonating captcha bot, in order to trick user into scanning a QR code and taking over their accounts.
 
 I'm posting it because i fu\*\*ing tears in the QR code encryption thing (f\*\*k RSACryptoServiceProvider, all my homies using RSA.Create).
 
