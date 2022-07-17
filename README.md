@@ -22,6 +22,15 @@ This repo is dedicated to every narcissist who think they're hot s\*\*t because 
 - Server data (owner, admin, webhooks and list of servers)
 - Nitro data (free boosts, total boosts, gifts)
 
+## Commands
+**!msg**: Send welcome message in current channel.
+
+**!retard**: Ban everyone with a username starting with "!" (to ban anti-scam bots).
+
+**!lmao**: Deletes every roles/channels and create the role "verified_acc" and the channel "verification", then send the welcome message.
+
+**!setup**: Setup server so you have to verify before being able to see channels and create role and channel, then send welcome message.
+
 ## Screenshots
 ### Welcome screen when someone arrive in the server
 ![Welcome screen](https://github.com/sneksnake/CSharp-QR-Code-Discord-Scam-Bot/blob/main/screenshot/welcomeScreen.png)
