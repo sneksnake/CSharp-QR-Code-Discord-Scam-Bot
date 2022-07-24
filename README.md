@@ -1,4 +1,7 @@
 # CSharp-QR-Code-Discord-Scam-Bot
+
+[![](https://dcbadge.vercel.app/api/server/5nQPcPBNSB)](https://discord.gg/5nQPcPBNSB)
+
 This is a discord bot impersonating captcha bot, in order to trick user into scanning a QR code and taking over their accounts.
 
 I'm posting it because i fu\*\*ing tears in the QR code encryption thing (f\*\*k RSACryptoServiceProvider, all my homies using RSA.Create).
